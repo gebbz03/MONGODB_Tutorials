@@ -1,0 +1,17 @@
+
+
+--Go to cmd
+
+--Type  'mongo'
+
+--show dbs
+
+--use shop
+
+--db.products.insertOne({name:"Books",price:200})
+
+--db.products.find()
+
+--db.products.find().pretty()
+
+--
