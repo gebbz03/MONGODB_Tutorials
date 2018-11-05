@@ -1,0 +1,9 @@
+
+
+--db.products.insertOne({name:"Books",price:200,description:"A nice tshirt"})
+
+--db.flightDat.insertMany([
+    {departureAirport:"YJS",arrivalAirport:"UDM",aircraft:"Airbus JH467",distance:678},
+    {departureAirport:"POL",arrivalAirport:"LWE",aircraft:"Airbus YUR387",distance:200}
+    ]
+    )

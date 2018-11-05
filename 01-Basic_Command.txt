@@ -23,3 +23,6 @@
 --db.products.insertOne({name:"Computer",price:40000,description:"Nice JUDGE tshirt",details:{cpu:"Core i7",memory:32}})
 
 --db.products.find().pretty()
+
+
+--db.flightDat.drop()

@@ -1,0 +1,5 @@
+
+
+--db.flightData.deleteOne({_id:"tysdf109"})
+
+-- db.flightData.deleteMany({marker:"updated na"})
