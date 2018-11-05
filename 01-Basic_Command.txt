@@ -2,11 +2,13 @@
 
 --Go to cmd
 
---Type  'mongo'
+--Type  'mongod' the open another cmd then type 'mongo'
 
 --show dbs
 
 --use shop
+
+--show collections
 
 --db.products.insertOne({name:"Books",price:200})
 
@@ -14,4 +16,10 @@
 
 --db.products.find().pretty()
 
---
+--db.products.insertOne({name:"Books",price:200,description:"A nice tshirt"})
+
+--db.products.find().pretty()
+
+--db.products.insertOne({name:"Computer",price:40000,description:"Nice JUDGE tshirt",details:{cpu:"Core i7",memory:32}})
+
+--db.products.find().pretty()
