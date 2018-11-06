@@ -1,0 +1,6 @@
+
+
+
+--db.flightData.find({distance:{$gt:500}}).pretty()     --  greater than query 
+
+-db.flightData.findOne({distance:{$gt:500}})            --  only one or limit

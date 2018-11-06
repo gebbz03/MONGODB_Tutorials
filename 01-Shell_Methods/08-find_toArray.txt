@@ -1,0 +1,4 @@
+
+
+--db.passengers.find().toArray()    --  show all results  / no need to type "it"
+

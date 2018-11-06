@@ -1,0 +1,12 @@
+
+
+--db.flightData.find()
+
+--db.flightData.find().pretty()
+
+--db.flightData.find({distance:200}).pretty()
+
+
+
+
+

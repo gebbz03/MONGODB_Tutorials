@@ -1,0 +1,10 @@
+
+
+--db.flightData.replaceOne(
+{_id:ObjectId("5be0cbcac99b4f4d83823c66")},
+
+{ "departureAirport": "YJS",    
+ "arrivalAirport": "SFO",    
+  "aircraft": "Airbus A380",     
+  "distance": 12000,    
+   "intercontinental": true})
